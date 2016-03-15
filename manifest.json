@@ -1,0 +1,13 @@
+{
+  "name": "Reverso Context",
+  "description": "Translation in context",
+  "version": "0.1",
+  "permissions": ["contextMenus", "tabs"],
+  "background": {
+    "scripts": ["sample.js"]
+  },
+  "browser_action": {
+    "name": "Open Reverso Context"
+  },
+  "manifest_version": 2
+}
