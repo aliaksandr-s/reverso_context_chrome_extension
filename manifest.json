@@ -7,7 +7,9 @@
     "scripts": ["sample.js"]
   },
   "icons": {
-  "16": "icon.png"
+  "16": "icon.png",
+  "48": "icon.png",
+  "128": "icon.png"
   },
   "browser_action": {
     "default_icon": "icon.png",
