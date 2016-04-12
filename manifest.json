@@ -6,7 +6,11 @@
   "background": {
     "scripts": ["sample.js"]
   },
+  "icons": {
+  "16": "icon.png"
+  },
   "browser_action": {
+    "default_icon": "icon.png",
     "name": "Open Reverso Context"
   },
   "manifest_version": 2
